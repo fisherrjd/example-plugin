@@ -8,7 +8,6 @@
 }:
 let
   name = "example-plugin";
-
   tools = with pkgs; {
     cli = [
       jfmt
