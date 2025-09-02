@@ -9,7 +9,6 @@
 let
   name = "example-plugin";
 
-
   tools = with pkgs; {
     cli = [
       jfmt
@@ -17,7 +16,7 @@ let
     ];
     java = [
       gradle
-      zulu
+      zulu11
     ];
     scripts = pkgs.lib.attrsets.attrValues scripts;
   };

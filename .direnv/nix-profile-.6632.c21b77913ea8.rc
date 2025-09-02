@@ -9,13 +9,13 @@ export CLASSPATH
 CONFIG_SHELL='/nix/store/4bacfs7zrg714ffffbjp57nsvcz6zfkq-bash-5.3p3/bin/bash'
 export CONFIG_SHELL
 HOSTTYPE='x86_64'
-HOST_PATH='/nix/store/b4p4m59nmh86hc98qw7v049hf1lc2sjw-jfmt/bin:/nix/store/b3gjigqlchrj1ss62xa7caz6lhslss4z-nixup-0.0.10/bin:/nix/store/klws7nsbs5bvxxi79j0m2xbiiw4fxdai-gradle-8.14.3/bin:/nix/store/f7gbgplx3g9ljrysp5ds81cc94v0602q-zulu-ca-jdk-21.0.4/bin:/nix/store/xbp2j3z0lhizr5vvzff4dgdcxgs8i2w7-coreutils-9.7/bin:/nix/store/bn3p3g6lsl0wa4ybrvik5rk4j5h3q7lb-findutils-4.10.0/bin:/nix/store/wjd5xfqk2cm55wfkc0nyxlg38d1h17x0-diffutils-3.12/bin:/nix/store/i74283mw5bncn16i0zbz0lvvq4sn0q87-gnused-4.9/bin:/nix/store/5ygilvgz6l47fw3x5ylb0cz1afgc3737-gnugrep-3.12/bin:/nix/store/0f4bvykzxsjvxh01jh1zai6s5jjlrach-gawk-5.3.2/bin:/nix/store/wa302h6k7rvrp6mzvq96swdyh3np0cyh-gnutar-1.35/bin:/nix/store/6w3g3nzyqqvhv36q2xj22k4d9vw3jl7h-gzip-1.14/bin:/nix/store/yiwcf5lsmalda0211g2nra5p20vmbp3q-bzip2-1.0.8-bin/bin:/nix/store/3aliwf9m0ji0fvpb6dg5hhp691fsvi1p-gnumake-4.4.1/bin:/nix/store/4bacfs7zrg714ffffbjp57nsvcz6zfkq-bash-5.3p3/bin:/nix/store/8j75alqms3ldbds4b4zip9mmy4af59ml-patch-2.8/bin:/nix/store/fksqvzy6pc1a4rbpyyiq4932m22aq5h4-xz-5.8.1-bin/bin:/nix/store/z08sfbfszjqfd52v6ccw35l332rfskz6-file-5.45/bin'
+HOST_PATH='/nix/store/b4p4m59nmh86hc98qw7v049hf1lc2sjw-jfmt/bin:/nix/store/b3gjigqlchrj1ss62xa7caz6lhslss4z-nixup-0.0.10/bin:/nix/store/klws7nsbs5bvxxi79j0m2xbiiw4fxdai-gradle-8.14.3/bin:/nix/store/yrpqfgwafzf9lx30s6j17li2jxq43sqa-zulu-ca-jdk-11.0.24/bin:/nix/store/xbp2j3z0lhizr5vvzff4dgdcxgs8i2w7-coreutils-9.7/bin:/nix/store/bn3p3g6lsl0wa4ybrvik5rk4j5h3q7lb-findutils-4.10.0/bin:/nix/store/wjd5xfqk2cm55wfkc0nyxlg38d1h17x0-diffutils-3.12/bin:/nix/store/i74283mw5bncn16i0zbz0lvvq4sn0q87-gnused-4.9/bin:/nix/store/5ygilvgz6l47fw3x5ylb0cz1afgc3737-gnugrep-3.12/bin:/nix/store/0f4bvykzxsjvxh01jh1zai6s5jjlrach-gawk-5.3.2/bin:/nix/store/wa302h6k7rvrp6mzvq96swdyh3np0cyh-gnutar-1.35/bin:/nix/store/6w3g3nzyqqvhv36q2xj22k4d9vw3jl7h-gzip-1.14/bin:/nix/store/yiwcf5lsmalda0211g2nra5p20vmbp3q-bzip2-1.0.8-bin/bin:/nix/store/3aliwf9m0ji0fvpb6dg5hhp691fsvi1p-gnumake-4.4.1/bin:/nix/store/4bacfs7zrg714ffffbjp57nsvcz6zfkq-bash-5.3p3/bin:/nix/store/8j75alqms3ldbds4b4zip9mmy4af59ml-patch-2.8/bin:/nix/store/fksqvzy6pc1a4rbpyyiq4932m22aq5h4-xz-5.8.1-bin/bin:/nix/store/z08sfbfszjqfd52v6ccw35l332rfskz6-file-5.45/bin'
 export HOST_PATH
 IFS=' 	
 '
 IN_NIX_SHELL='impure'
 export IN_NIX_SHELL
-JAVA_HOME='/nix/store/f7gbgplx3g9ljrysp5ds81cc94v0602q-zulu-ca-jdk-21.0.4'
+JAVA_HOME='/nix/store/yrpqfgwafzf9lx30s6j17li2jxq43sqa-zulu-ca-jdk-11.0.24'
 export JAVA_HOME
 LINENO='76'
 MACHTYPE='x86_64-pc-linux-gnu'
@@ -23,7 +23,7 @@ NIXUP='0.0.9'
 export NIXUP
 NIX_BUILD_CORES='12'
 export NIX_BUILD_CORES
-NIX_CFLAGS_COMPILE=' -frandom-seed=j62i9d6cmp'
+NIX_CFLAGS_COMPILE=' -frandom-seed=svq1dnsn5j'
 export NIX_CFLAGS_COMPILE
 NIX_ENFORCE_NO_NATIVE='1'
 export NIX_ENFORCE_NO_NATIVE
@@ -36,7 +36,7 @@ OLDPWD=''
 export OLDPWD
 OPTERR='1'
 OSTYPE='linux-gnu'
-PATH='/nix/store/b3rsa3r13bkp8hr5g3pncxpb6b3crvxl-patchelf-0.15.0/bin:/nix/store/b4p4m59nmh86hc98qw7v049hf1lc2sjw-jfmt/bin:/nix/store/b3gjigqlchrj1ss62xa7caz6lhslss4z-nixup-0.0.10/bin:/nix/store/klws7nsbs5bvxxi79j0m2xbiiw4fxdai-gradle-8.14.3/bin:/nix/store/f7gbgplx3g9ljrysp5ds81cc94v0602q-zulu-ca-jdk-21.0.4/bin:/nix/store/xbp2j3z0lhizr5vvzff4dgdcxgs8i2w7-coreutils-9.7/bin:/nix/store/bn3p3g6lsl0wa4ybrvik5rk4j5h3q7lb-findutils-4.10.0/bin:/nix/store/wjd5xfqk2cm55wfkc0nyxlg38d1h17x0-diffutils-3.12/bin:/nix/store/i74283mw5bncn16i0zbz0lvvq4sn0q87-gnused-4.9/bin:/nix/store/5ygilvgz6l47fw3x5ylb0cz1afgc3737-gnugrep-3.12/bin:/nix/store/0f4bvykzxsjvxh01jh1zai6s5jjlrach-gawk-5.3.2/bin:/nix/store/wa302h6k7rvrp6mzvq96swdyh3np0cyh-gnutar-1.35/bin:/nix/store/6w3g3nzyqqvhv36q2xj22k4d9vw3jl7h-gzip-1.14/bin:/nix/store/yiwcf5lsmalda0211g2nra5p20vmbp3q-bzip2-1.0.8-bin/bin:/nix/store/3aliwf9m0ji0fvpb6dg5hhp691fsvi1p-gnumake-4.4.1/bin:/nix/store/4bacfs7zrg714ffffbjp57nsvcz6zfkq-bash-5.3p3/bin:/nix/store/8j75alqms3ldbds4b4zip9mmy4af59ml-patch-2.8/bin:/nix/store/fksqvzy6pc1a4rbpyyiq4932m22aq5h4-xz-5.8.1-bin/bin:/nix/store/z08sfbfszjqfd52v6ccw35l332rfskz6-file-5.45/bin'
+PATH='/nix/store/b3rsa3r13bkp8hr5g3pncxpb6b3crvxl-patchelf-0.15.0/bin:/nix/store/b4p4m59nmh86hc98qw7v049hf1lc2sjw-jfmt/bin:/nix/store/b3gjigqlchrj1ss62xa7caz6lhslss4z-nixup-0.0.10/bin:/nix/store/klws7nsbs5bvxxi79j0m2xbiiw4fxdai-gradle-8.14.3/bin:/nix/store/yrpqfgwafzf9lx30s6j17li2jxq43sqa-zulu-ca-jdk-11.0.24/bin:/nix/store/xbp2j3z0lhizr5vvzff4dgdcxgs8i2w7-coreutils-9.7/bin:/nix/store/bn3p3g6lsl0wa4ybrvik5rk4j5h3q7lb-findutils-4.10.0/bin:/nix/store/wjd5xfqk2cm55wfkc0nyxlg38d1h17x0-diffutils-3.12/bin:/nix/store/i74283mw5bncn16i0zbz0lvvq4sn0q87-gnused-4.9/bin:/nix/store/5ygilvgz6l47fw3x5ylb0cz1afgc3737-gnugrep-3.12/bin:/nix/store/0f4bvykzxsjvxh01jh1zai6s5jjlrach-gawk-5.3.2/bin:/nix/store/wa302h6k7rvrp6mzvq96swdyh3np0cyh-gnutar-1.35/bin:/nix/store/6w3g3nzyqqvhv36q2xj22k4d9vw3jl7h-gzip-1.14/bin:/nix/store/yiwcf5lsmalda0211g2nra5p20vmbp3q-bzip2-1.0.8-bin/bin:/nix/store/3aliwf9m0ji0fvpb6dg5hhp691fsvi1p-gnumake-4.4.1/bin:/nix/store/4bacfs7zrg714ffffbjp57nsvcz6zfkq-bash-5.3p3/bin:/nix/store/8j75alqms3ldbds4b4zip9mmy4af59ml-patch-2.8/bin:/nix/store/fksqvzy6pc1a4rbpyyiq4932m22aq5h4-xz-5.8.1-bin/bin:/nix/store/z08sfbfszjqfd52v6ccw35l332rfskz6-file-5.45/bin'
 export PATH
 PS4='+ '
 SHELL='/nix/store/4bacfs7zrg714ffffbjp57nsvcz6zfkq-bash-5.3p3/bin/bash'
@@ -52,7 +52,7 @@ allowSubstitutes=''
 export allowSubstitutes
 buildCommandPath='/build/.attr-0l2nkwhif96f51f4amnlf414lhl4rv9vh8iffyp431v6s28gsr90'
 export buildCommandPath
-buildInputs='/nix/store/b4p4m59nmh86hc98qw7v049hf1lc2sjw-jfmt /nix/store/b3gjigqlchrj1ss62xa7caz6lhslss4z-nixup-0.0.10 /nix/store/klws7nsbs5bvxxi79j0m2xbiiw4fxdai-gradle-8.14.3 /nix/store/f7gbgplx3g9ljrysp5ds81cc94v0602q-zulu-ca-jdk-21.0.4'
+buildInputs='/nix/store/b4p4m59nmh86hc98qw7v049hf1lc2sjw-jfmt /nix/store/b3gjigqlchrj1ss62xa7caz6lhslss4z-nixup-0.0.10 /nix/store/klws7nsbs5bvxxi79j0m2xbiiw4fxdai-gradle-8.14.3 /nix/store/yrpqfgwafzf9lx30s6j17li2jxq43sqa-zulu-ca-jdk-11.0.24'
 export buildInputs
 buildPhase='gradleBuildPhase'
 builder='/nix/store/4bacfs7zrg714ffffbjp57nsvcz6zfkq-bash-5.3p3/bin/bash'
@@ -139,13 +139,13 @@ export patches
 pathsToLink='/'
 export pathsToLink
 pkg='/nix/store/pilsssjjdxvdphlg2h19p0bfx5q0jzkn-strip.sh'
-pkgs='[{"paths":["/nix/store/b4p4m59nmh86hc98qw7v049hf1lc2sjw-jfmt"],"priority":5},{"paths":["/nix/store/b3gjigqlchrj1ss62xa7caz6lhslss4z-nixup-0.0.10"],"priority":5},{"paths":["/nix/store/klws7nsbs5bvxxi79j0m2xbiiw4fxdai-gradle-8.14.3"],"priority":6},{"paths":["/nix/store/f7gbgplx3g9ljrysp5ds81cc94v0602q-zulu-ca-jdk-21.0.4"],"priority":5}]'
+pkgs='[{"paths":["/nix/store/b4p4m59nmh86hc98qw7v049hf1lc2sjw-jfmt"],"priority":5},{"paths":["/nix/store/b3gjigqlchrj1ss62xa7caz6lhslss4z-nixup-0.0.10"],"priority":5},{"paths":["/nix/store/klws7nsbs5bvxxi79j0m2xbiiw4fxdai-gradle-8.14.3"],"priority":6},{"paths":["/nix/store/yrpqfgwafzf9lx30s6j17li2jxq43sqa-zulu-ca-jdk-11.0.24"],"priority":5}]'
 export pkgs
 declare -a pkgsBuildBuild=()
 declare -a pkgsBuildHost=('/nix/store/b3rsa3r13bkp8hr5g3pncxpb6b3crvxl-patchelf-0.15.0' '/nix/store/y1khqn4bmkx7vxbmgsdpp5vi81500zhb-update-autotools-gnu-config-scripts-hook' '/nix/store/0y5xmdb7qfvimjwbq7ibg1xdgkgjwqng-no-broken-symlinks.sh' '/nix/store/cv1d7p48379km6a85h4zp6kr86brh32q-audit-tmpdir.sh' '/nix/store/4bawv6x85435v6s624sfk5cdpg9gr6yq-compress-man-pages.sh' '/nix/store/wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh' '/nix/store/5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh' '/nix/store/fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh' '/nix/store/kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh' '/nix/store/pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh' '/nix/store/cmzya9irvxzlkh7lfy6i82gbp0saxqj3-multiple-outputs.sh' '/nix/store/x8c40nfigps493a07sdr2pm5s9j1cdc0-patch-shebangs.sh' '/nix/store/cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh' '/nix/store/xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh' '/nix/store/z7k98578dfzi6l3hsvbivzm7hfqlk0zc-set-source-date-epoch-to-latest.sh' '/nix/store/pilsssjjdxvdphlg2h19p0bfx5q0jzkn-strip.sh' )
 declare -a pkgsBuildTarget=()
 declare -a pkgsHostHost=()
-declare -a pkgsHostTarget=('/nix/store/b4p4m59nmh86hc98qw7v049hf1lc2sjw-jfmt' '/nix/store/b3gjigqlchrj1ss62xa7caz6lhslss4z-nixup-0.0.10' '/nix/store/klws7nsbs5bvxxi79j0m2xbiiw4fxdai-gradle-8.14.3' '/nix/store/f7gbgplx3g9ljrysp5ds81cc94v0602q-zulu-ca-jdk-21.0.4' '/nix/store/x5ys1rnk21ddy7w9jwi9sicji3hsv32g-set-java-classpath-hook' )
+declare -a pkgsHostTarget=('/nix/store/b4p4m59nmh86hc98qw7v049hf1lc2sjw-jfmt' '/nix/store/b3gjigqlchrj1ss62xa7caz6lhslss4z-nixup-0.0.10' '/nix/store/klws7nsbs5bvxxi79j0m2xbiiw4fxdai-gradle-8.14.3' '/nix/store/yrpqfgwafzf9lx30s6j17li2jxq43sqa-zulu-ca-jdk-11.0.24' '/nix/store/x5ys1rnk21ddy7w9jwi9sicji3hsv32g-set-java-classpath-hook' )
 declare -a pkgsTargetTarget=()
 postBuild=''
 export postBuild
